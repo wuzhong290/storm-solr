@@ -11,7 +11,7 @@
     <properties>
         <storm.version>0.9.4</storm.version>
         <version.solr>4.10.3</version.solr>
-        <version.httpclient>4.2.5</version.httpclient>
+        <version.httpclient>4.5.13</version.httpclient>
         <springframework.version>4.1.6.RELEASE</springframework.version>
     </properties>
 
